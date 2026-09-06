@@ -2,7 +2,7 @@
 This project aims to use identify cycling routes in Stuttgart that provide lower exposure to air pollution, particularly NO₂ using GIS
 
 # Spatial Question and Study Area
-Which cycling routes in Stuttgart have the lowest estimated exposure to NO₂
+Which cycling routes in Stuttgart, Germany have the lowest estimated exposure to NO₂?
 
 ## Datasets and Sources
 •	Air Pollution Data (NO₂) - [European Environment Agency ](https://www.eea.europa.eu/en/datahub/datahubitem-view/82700fbd-2953-467b-be0a-78a520c3a7ef?activeAccordion=1102377%2C1102375)
