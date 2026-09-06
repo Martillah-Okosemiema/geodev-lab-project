@@ -1,5 +1,5 @@
 # My project brief
-This project aims to use GIS to identify cycling routes in Stuttgart that provide lower exposure to air pollution, particularly NO₂
+This project aims to use identify cycling routes in Stuttgart that provide lower exposure to air pollution, particularly NO₂ using GIS
 
 # Spatial Question and Study Area
 Which cycling routes in Stuttgart have the lowest estimated exposure to NO₂
