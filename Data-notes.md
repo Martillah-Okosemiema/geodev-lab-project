@@ -1,6 +1,6 @@
 #Data notes for the identification and mapping of cycling routes in Stuttgart with lowest NO2 exposure
 
-#### Baden-Würrtemberg Administrative Boundaries
+## Baden-Würrtemberg Administrative Boundaries
 -	Source: https://opengeodata.lgl-bw.de/#/(sidenav:product/alkisvg)
 -	Downloaded: 06/09/2026
 -	44 Features, polygons, only 1 selected (Stuttgart)
