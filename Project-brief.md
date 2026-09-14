@@ -5,8 +5,8 @@ This project aims to identify cycling routes in Stuttgart that provide lower exp
 Which cycling routes in Stuttgart, Germany have the lowest estimated exposure to NO₂?
 
 ## Datasets and Sources
-•	Air Pollution Data (NO₂) - [Stuttgart City Map ](https://maps.stuttgart.de/stadtplan/ ) 
-•	Cycling Network WFS  [Stuttgart open geoportal ](https://opendata.stuttgart.de/gl/dataset/raddaten/resource/76ab294f-46c2-433e-8a27-116bf9d23b96)
+•	Air Pollution Data (NO₂) - [Stuttgart City Map ](https://maps.stuttgart.de/stadtplan/) Web Feature Service: (https://geoserver.stuttgart.de/geoserver/ows/)
+•	Cycling Network WFS [Stuttgart City Map ](https://maps.stuttgart.de/stadtplan/) Web Feature Service: (https://geoserver.stuttgart.de/geoserver/ows/)
 •	Road network- [OpenStreetMap (Geofabrik)](https://download.geofabrik.de/europe/germany/baden-wuerttemberg/stuttgart-regbez.html)
 •	Administrative Boundary: [Stuttgart open geoportal](https://opengeodata.lgl-bw.de/#/(sidenav:product/alkisvg))
 
