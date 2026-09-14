@@ -33,4 +33,4 @@
 -	Extracted: September 13, 2026
 -	114 Features, Polygon (Multipolygon)
 -	Columns in German: GRIDCODE (real), ANNO_CAD_DATA (string), GRIDCODE_KLASSIFIZIEIRT (string)
--	No NULL values for concnetrations (GRIDCODE_KLASSIFIZIEIRT); data complete
+-	No NULL values for concentrations (GRIDCODE_KLASSIFIZIEIRT); data complete
